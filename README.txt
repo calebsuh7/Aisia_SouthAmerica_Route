@@ -1,1 +1,0 @@
-Place your 31 .gif flag files here (e.g., KR.gif, US.gif, JP.gif...)
